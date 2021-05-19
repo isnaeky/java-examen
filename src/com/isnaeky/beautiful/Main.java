@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 public class Main {
 	public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("C:\\Programa\\raking.txt"));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("C:\\Programa\\beutiful.txt"));
 
         System.out.println("Numero i");
         int i = Integer.parseInt(bufferedReader.readLine().trim());
